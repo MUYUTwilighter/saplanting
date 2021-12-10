@@ -1,0 +1,1 @@
+execute as @e[nbt={Item:{Count:1b}},type=minecraft:item,tag=!checkfailed,tag=!tobecheck] at @s run function saplanting:target/isplant
