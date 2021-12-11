@@ -21,5 +21,5 @@ This is a minecraft datapack
 
 If you can not spare enough time and effort to plant saplings in Minecraft or the players on server are too lazy too do so, this datapack will help you!
 
-When a sapling item drops on dirt(or something else that let saplings grow), it will automatically turn into sapling block for 2 seconds. The sapling-planting will not destroy the block that already take up the place(except air and blocks with tag"minecraft:replaceable").
+When a sapling item drops on dirt(or something else that let saplings grow), it will automatically turn into sapling block in 2 seconds. The sapling-planting will not destroy the block that already take up the place(except air and blocks with tag"minecraft:replaceable").
 
