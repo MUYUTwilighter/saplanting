@@ -1,1 +1,0 @@
-execute as @s if block ~ ~ ~ #saplanting:replaceable if block ~ ~-1 ~ #saplanting:plantable run function saplanting:target/checksuccess

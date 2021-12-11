@@ -1,0 +1,2 @@
+execute if entity @s[tag=sapling] if block ~ ~-1 ~ #saplanting:plantable/sapling run function saplanting:tick/condition/execute
+execute if entity @s[tag=nether] if block ~ ~-1 ~ #saplanting:plantable/nether run function saplanting:tick/condition/execute

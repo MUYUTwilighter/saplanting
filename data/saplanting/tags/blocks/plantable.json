@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#saplanting:plantable/nether",
+        "#saplanting:plantable/sapling"
+    ]
+}
