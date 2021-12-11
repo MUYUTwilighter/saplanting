@@ -17,3 +17,9 @@ This is a minecraft datapack
     use command "/function saplanting:stop" to disable auto-planting
     use command "/function saplanting:restart" to reboot auto-planting
 
+**Brief**
+
+If you can not spare enough time and effort to plant saplings in Minecraft or the players on server are too lazy too do so, this datapack will help you!
+
+When a sapling item drops on dirt(or something else that let saplings grow), it will automatically turn into sapling block after 2 seconds. The sapling-planting will not destroy the block that already take up the place(except air and blocks with tag"minecraft:replaceable").
+
