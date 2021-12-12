@@ -1,0 +1,1 @@
+setblock ~ ~ ~ minecraft:crimson_fungus destroy

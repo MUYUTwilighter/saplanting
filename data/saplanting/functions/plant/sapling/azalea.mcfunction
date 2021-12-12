@@ -1,0 +1,1 @@
+setblock ~ ~ ~ minecraft:azalea destroy

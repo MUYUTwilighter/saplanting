@@ -1,0 +1,1 @@
+execute unless entity @a[distance=0..5,tag=splt_private_disable] run function saplanting:tick/condition/avoid_dense

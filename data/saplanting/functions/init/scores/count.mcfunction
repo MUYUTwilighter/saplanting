@@ -1,0 +1,1 @@
+scoreboard objectives add splt_count dummy

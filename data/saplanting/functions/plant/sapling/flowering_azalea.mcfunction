@@ -1,0 +1,1 @@
+setblock ~ ~ ~ minecraft:flowering_azalea destroy

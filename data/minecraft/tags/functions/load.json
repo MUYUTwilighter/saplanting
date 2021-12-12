@@ -1,6 +1,11 @@
 {
     "replace": false,
     "values": [
-        "saplanting:init/tobecheck"
+        "saplanting:init/entities/splt_marker",
+        "saplanting:init/scores/private_disable",
+        "saplanting:init/scores/private_enable",
+        "saplanting:init/scores/tobeplanted",
+        "saplanting:init/scores/count",
+        "saplanting:init/scores/interface"
     ]
 }

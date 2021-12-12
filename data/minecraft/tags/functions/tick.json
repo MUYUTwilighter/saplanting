@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "saplanting:interface/archives/trigger/detect",
+        "saplanting:interface/archives/trigger/enable"
+    ]
+}

@@ -1,0 +1,1 @@
+execute unless entity @e[type=minecraft:marker,tag=splt_marker] run summon minecraft:marker 0 -64 0 {Tags:["splt_marker"]}

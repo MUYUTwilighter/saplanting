@@ -1,0 +1,1 @@
+setblock ~ ~ ~ minecraft:spruce_sapling destroy

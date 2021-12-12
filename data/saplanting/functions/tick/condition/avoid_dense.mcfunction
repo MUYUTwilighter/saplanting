@@ -1,0 +1,2 @@
+execute if entity @e[type=minecraft:marker,tag=splt_marker,tag=splt_avoid_dense] unless entity @e[type=minecraft:item,distance=0.5..3,tag=splt_tobeplanted] run function saplanting:tick/condition/space
+execute if entity @e[type=minecraft:marker,tag=splt_marker,tag=!splt_avoid_dense] run function saplanting:tick/condition/space

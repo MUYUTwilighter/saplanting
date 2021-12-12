@@ -1,0 +1,2 @@
+execute if entity @s[nbt={Item:{id:"minecraft:crimson_fungus"}}] run function saplanting:plant/nether/crimson_fungus
+execute if entity @s[nbt={Item:{id:"minecraft:warped_fungus"}}] run function saplanting:plant/nether/warped_fungus
