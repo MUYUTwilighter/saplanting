@@ -1,1 +1,0 @@
-execute if block ~ ~ ~ #saplanting:replaceable run function saplanting:tick/condition/base

@@ -1,2 +1,0 @@
-function saplanting:stop
-function saplanting:start

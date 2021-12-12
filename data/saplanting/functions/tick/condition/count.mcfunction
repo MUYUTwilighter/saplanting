@@ -1,1 +1,0 @@
-execute if entity @s[nbt={Item:{Count:1b}}] run function saplanting:tick/condition/space
