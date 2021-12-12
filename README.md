@@ -12,10 +12,12 @@ This is a minecraft datapack
 **How to use**
 
 1. Start your game and enter the save you've installed the datapack in
-2. Make sure you have permissions to execute commands
-3. use command "/function saplanting:start" to enable auto-planting
-    use command "/function saplanting:stop" to disable auto-planting
-    use command "/function saplanting:restart" to reboot auto-planting
+
+2. Open control interface with command "/trigger splt_interface set 1"
+
+3. The control interface is now displayed, and you can click on "Enable"s and "Disables" to modify options
+
+    Tips: only admin can modify global options, all the players can modify private options.
 
 **Brief**
 
