@@ -1,5 +1,5 @@
 # Saplanting
-Auto planting in Minecraft 1.18.X  
+Auto planting in Minecraft 1.18.X & 1.16.X  
 This is a minecraft datapack
 
 **How to Install**
