@@ -1,6 +1,6 @@
 # Saplanting
 Auto planting in Minecraft 1.18.X & 1.16.X  
-This is a minecraft datapack
+This is a minecraft datapack  
 **NOTICE**
 This project has been move to project "Saplanting(Fabric)" and will no longer get support or development.  
 If anyone is interested in its further development, feel free to fork this project and continue to update.
